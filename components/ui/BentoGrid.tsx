@@ -12,7 +12,6 @@ import { BackgroundGradientAnimation } from "./Gradientbg";
 
 import animationData from "@/data/confetti.json";
 import MagicButton from "../MagicButton";
-import { EvervaultCard } from "./evervault-card";
 import { EvervaultCardDemo } from "./vailtcars";
 
 export const BentoGrid = ({

@@ -14,9 +14,7 @@ import { TbBrandLinkedinFilled } from "react-icons/tb";
 import {
   IconBrandGithub,
   IconBrandX,
-  IconExchange,
   IconHome,
-  IconNewSection,
   IconTerminal2,
   
 } from "@tabler/icons-react";
